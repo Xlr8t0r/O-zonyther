@@ -1,3 +1,3 @@
-# Paradi'zone official github page
+# Paradither official github page
 
 not release, this will be edited after.
