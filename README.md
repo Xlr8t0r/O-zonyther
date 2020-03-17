@@ -43,7 +43,7 @@ The ambience of the world mixes a lot of things, the middle land, a lot of biome
 
 dark forest biome which gives you the chills with their wild moose.
 The dark atmosphere of the world will make you want to explore the smallest corners of the dimension.
-1|
+
 
 _________________________________________________________________________________________________________________________________________________________
 
@@ -108,7 +108,7 @@ _________________
  ~eyes of darkness
  ~god element (only killable with zonle hallebarde)
  ~~GODBURN (final boss)
-2|
+
 
 _________________________________________________________________________________________________________________________________________________________
 
@@ -137,7 +137,7 @@ _________________
  ~redwater
  ~toxic water
  ~magic, mystic water
-3|
+
 
 _________________________________________________________________________________________________________________________________________________________
 
