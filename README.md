@@ -1,4 +1,4 @@
-# Apocalyther official page
+# Apocalyther official github page
 
 APOCALYTHER FEATURES LIST:
 ------------------------------------------------------------------------------
