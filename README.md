@@ -14,6 +14,8 @@ a bunch of new biomes
 -elements islands
 -freeze forests
 -snow mountains
+-water trees biome
+-island mountain
 ------------------------------------------------------------------------------
 DIMENSION INFOS:
 
