@@ -16,6 +16,8 @@ a bunch of new biomes
 -snow mountains
 -water trees biome
 -island mountain
+-void biome
+-blizzard mountains and forests
 ------------------------------------------------------------------------------
 DIMENSION INFOS:
 
