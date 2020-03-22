@@ -1,6 +1,6 @@
-# Apocalyther official github page
+# O'zonyther official github page
 
-APOCALYTHER FEATURES LIST:
+O'ZONYTHER FEATURES LIST:
 ------------------------------------------------------------------------------
 BIOMES:
 a bunch of new biomes
