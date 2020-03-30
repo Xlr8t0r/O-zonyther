@@ -18,6 +18,7 @@ a bunch of new biomes
 -island mountain
 -void biome
 -blizzard mountains and forests
+-fallout biome (where you find the last boss)
 ------------------------------------------------------------------------------
 DIMENSION INFOS:
 
