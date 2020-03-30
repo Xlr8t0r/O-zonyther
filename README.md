@@ -23,9 +23,7 @@ a bunch of new biomes
 DIMENSION INFOS:
 
 //how to acces ?\\
-by build the same portal of the end, with 2 special block only availabe on nether with an special pickaxe, and click on the patern with a flind and 
-
-steel.
+by build the same portal of the end, with 2 special block only availabe on nether with an special pickaxe, and click on the patern with a flint and steel.
 ________________________________________________________________________________________________________________________________________
 
 _________________
